@@ -36,6 +36,7 @@ int main() {
         cin>>response;
         if(response == "y"){
             contin = true;
+            i++;
         }
         else{
             contin = false;
